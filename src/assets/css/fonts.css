@@ -1,0 +1,141 @@
+/* sarabun-100 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local('Sarabun Thin'), local('Sarabun-Thin'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-200 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: local('Sarabun ExtraLight'), local('Sarabun-ExtraLight'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-300 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Sarabun Light'), local('Sarabun-Light'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-regular - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sarabun Regular'), local('Sarabun-Regular'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-500 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Sarabun Medium'), local('Sarabun-Medium'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-600 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Sarabun SemiBold'), local('Sarabun-SemiBold'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-700 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Sarabun Bold'), local('Sarabun-Bold'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-800 - thai_latin */
+@font-face {
+  font-family: 'TH Sarabun';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('Sarabun ExtraBold'), local('Sarabun-ExtraBold'),
+       url('../fonts/sarabun/sarabun-v7-thai_latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/sarabun/sarabun-v7-thai_latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-100 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local('Roboto Thin'), local('Roboto-Thin'),
+       url('../fonts/roboto/roboto-v20-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto/roboto-v20-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-300 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Roboto Light'), local('Roboto-Light'),
+       url('../fonts/roboto/roboto-v20-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto/roboto-v20-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'),
+       url('../fonts/roboto/roboto-v20-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto/roboto-v20-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-500 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+       url('../fonts/roboto/roboto-v20-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto/roboto-v20-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+       url('../fonts/roboto/roboto-v20-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto/roboto-v20-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-900 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local('Roboto Black'), local('Roboto-Black'),
+       url('../fonts/roboto/roboto-v20-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto/roboto-v20-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
