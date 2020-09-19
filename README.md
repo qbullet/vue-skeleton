@@ -1,4 +1,4 @@
-# gentlewoman-management
+# vue-skeleton
 
 ## Project setup
 ```
